@@ -1,0 +1,262 @@
+
+/*Nav*/
+
+
+.navbar{
+    height: 80px;
+    margin: 0px;
+}
+
+.nav-link:hover{
+    text-decoration: none;
+}
+
+.nav-link:active{
+    text-decoration: underline dotted #16A8BB ;
+}
+.container-fluid{
+    padding: 20px 50px;
+}
+
+.navbar-nav{
+    float: right;
+}
+
+h2{
+    font-size: 25px;
+    letter-spacing: 0.1rem;
+    font-family: 'Source Code Pro', monospace;
+    color:#16A8BB;
+}
+
+
+h3{
+    font-size: 20px;
+    letter-spacing: 0.1rem;
+    font-family: 'Source Code Pro', monospace;
+    color:#16A8BB;
+}
+
+p{
+    font-size:16px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 30px;
+    
+}
+
+.titlepage{
+    background-color: #16A8BB;
+    height: 100vh;
+}
+
+.titlepage h2{
+    color:white;
+}
+.intro{
+    margin:auto;
+    width: 680px;
+    text-align: left;
+    padding-top: 170px;
+    color:white;
+}
+
+
+.statements{
+    width:680px;
+    margin:auto;
+    padding-top: 120px;
+}
+
+.discovery{
+    width: 680px;
+    margin: auto;
+    padding-top: 120px; 
+}
+
+.heuristic{
+    margin: auto;
+    width: 680px;
+    padding-top: 120px;
+}
+
+.carousel{
+    width: 680px;
+    margin: auto;
+    padding: 30px;
+    padding-top: 50px;
+
+}
+
+.carousel-indicators{
+    padding: 7% 15%;
+}
+
+.left {
+    background-color: transparent;
+}
+
+.persona{
+    padding-top: 120px;
+    width: 900px;
+    margin: auto;
+}
+
+.persona img{
+    width: 900px;
+    margin-left: -35px;
+}
+
+.redesign{
+    padding-top: 120px;
+    margin: auto;
+    width: 900px;
+}
+
+.Card-sorting{
+    padding-top: 120px;
+    margin: auto;
+    width: 900px;
+}
+
+.Card-sorting img{
+    width: 900px;
+    margin-top: 50px;
+
+}
+
+.IA{
+    width: 900px;
+    padding-top: 120px;
+    margin: auto;
+}
+
+.IA img{
+    width: 900px;
+    margin-top: 50px;
+}
+
+.Task-flow{
+    width: 900px;
+    margin: auto;
+    padding-top: 120px;
+}
+
+.Task-flow img{
+    width: 900px;
+    margin-top: 50px;
+
+}
+
+.lowfi{
+    width: 900px;
+    margin: auto;
+    padding-top: 120px;
+}
+
+.lowfi img{
+    width: 900px;
+    margin-top: 50px;
+}
+
+.Midfi{
+    width: 900px;
+    margin: auto;
+    padding-top: 120px;
+}
+
+.Midfi img{
+    width: 900px;
+    margin-top: 50px;
+}
+
+
+.testing{
+    width: 900px;
+    margin: auto;
+    padding-top: 120px;
+
+}
+.Insights{
+    display: inline-block;
+    position: relative;
+    width: 380px;
+    padding-top: 30px;
+    margin-right: 80px;
+    margin-left: -15px;
+
+}
+
+.painpoints{
+    display: inline-block;
+    position: relative;
+    width: 380px;
+    padding-top: 30px;
+}
+
+.styleguide{
+    width: 900px;
+    margin: auto;
+    padding-top: 120px;
+}
+
+.styleguide img{
+    width: 900px;
+    margin-top: 50px;
+}
+
+.UI{
+    width: 900px;
+    margin: auto;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
+.UI img{
+    width: 900px;
+    margin-top: 50px;
+}
+
+.Highfi h2{
+    width: 900px;
+    margin: auto;
+    padding-top: 120px;
+    color:white;
+}
+
+.Highfi {
+    background-color: #16A8BB;
+
+}
+
+.Highfi img{
+    width: 1000px;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+.btn{
+    display: inline-block;
+    background-color: transparent;
+    border: 1.8px solid white;
+    color: white;
+    border-radius: 1rem;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: -100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .15);
+    margin-top: -50px;
+}
+
+.btn:hover{
+   background-color: white;
+}
+
+.btn:active{
+   color:#16A8BB;
+   background-color: white;
+   text-decoration: none;
+   border-radius: 1rem;
+   
+ }
